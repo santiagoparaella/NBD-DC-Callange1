@@ -222,7 +222,7 @@ def plot_results(df, g_type):
     plt.plot(new_df['nodes'], new_df["irreducibility"], '.', color = 'green', markersize = 20)
     plt.ylabel("log Time (s)", fontsize = 20, labelpad = 10)
     plt.yticks(fontsize = 16)
-    plt.xlabel("Nodes", fontsize = 20, labelpad = 10)
+    plt.xlabel("Number of nodes", fontsize = 20, labelpad = 10)
     plt.xticks(fontsize = 16)
     plt.yscale("log")
     plt.title(title, pad = 16, fontsize = 22)
