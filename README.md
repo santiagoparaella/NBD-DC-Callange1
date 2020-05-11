@@ -1,5 +1,5 @@
 # NBD-DC-Callange1
-This repository contains all matirials about the fist challenge of the course Networking for Big Data (Data Center Part) - Master degree in Data Science Sapienza - Roma, IT
+This repository contains all matirials about the first challenge of the course Networking for Big Data (Data Center Part) - Master degree in Data Science Sapienza - Roma, IT
 
 ## This work is made by:
 * Dario Russo
